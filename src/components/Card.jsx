@@ -4,21 +4,21 @@ const Card = () => {
     const projects = [
         {
             title: "Cotizador Prestamo",
-            image: "/img/app1.png",
+            image: "img/app1.png",
             description: "Aplicacion con React para practicar el uso de useState y useEffect, calculando montos según valor y plazo ingresados.",
             link: "https://apipokelist.netlify.app/",
             repo: "https://github.com/Marc-07/React-API-ListadoProducto"
         },
         {
             title: "APP Clima",
-            image: "/img/app2.png",
+            image: "img/app2.png",
             description: "Proyecto enfocado en la práctica de consumo de APIs externas, manejo de eventos, validación de formularios.",
             link: "https://appweatherfetchapi.netlify.app/",
             repo: "https://github.com/Marc-07/AppClima/tree/main"
         },
         {
             title: "Administrador de Empleados",
-            image: "/img/app3.png",
+            image: "img/app3.png",
             description: "Sistema de gestión de empleados desarrollado con React, Node.js, Express y MongoDB, con autenticación JWT.",
             link: "https://devconnect-adm.netlify.app/",
             repo: "https://github.com/Marc-07/devConnect_backend"
