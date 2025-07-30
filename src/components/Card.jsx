@@ -6,8 +6,8 @@ const Card = () => {
             title: "Cotizador Prestamo",
             image: "img/app1.png",
             description: "Aplicacion con React para practicar el uso de useState y useEffect, calculando montos según valor y plazo ingresados.",
-            link: "https://apipokelist.netlify.app/",
-            repo: "https://github.com/Marc-07/React-API-ListadoProducto"
+            link: "https://cotizador-prestamoreact.netlify.app/",
+            repo: "https://github.com/Marc-07/Cotizador-Prestamo"
         },
         {
             title: "APP Clima",
